@@ -1,7 +1,7 @@
 [INIT]
 PICFIX=1
 VARCount=64
-Version=1
+Version=-1
 ProVersion=642
 SCREENDSIZE=272X480
 SPADDRESS=5000
@@ -15,7 +15,6 @@ SPADDRESS=5000
 11=11.jpg
 12=12.jpg
 13=13.jpg
-14=14.jpg
 15=15.jpg
 16=16.jpg
 17=17.jpg
@@ -61,3 +60,4 @@ SPADDRESS=5000
 57=57.jpg
 58=58.jpg
 3=3.jpg
+14=14.png
